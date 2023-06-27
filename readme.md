@@ -5,6 +5,7 @@
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="images/wx.png">
 			<img alt="Awesome WatsonX" width="500px" src="images/wx.png">
+			<img alt="Awesome WatsonX" width="500px" src="images/wx-2.png">
 		</picture>
 		<br>
 	</div>
@@ -57,7 +58,7 @@ In this section, pass on what you have learned.
 
 ### Documentation
 
-- [IBM watsonx.data Level 2](https://yourlearning.ibm.com/activity/PLAN-96BA3950C94B)
+- [YourLearning - IBM watsonx.data Level 2](https://yourlearning.ibm.com/activity/PLAN-96BA3950C94B)
 
 
 ## Contribute
