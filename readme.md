@@ -126,6 +126,7 @@
 - [Title](Link)(🚀)
 
 ### Documentation
+Please check the required training.
 
 - [Your Learning - IBM watsonx.data Level 2](https://yourlearning.ibm.com/activity/PLAN-96BA3950C94B)
 
