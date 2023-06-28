@@ -24,7 +24,7 @@
 
 # Build Lab Americas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> watsonx Selection Content: Welcome, this page has the propose to help Build Lab team. Please, be welcome to join us helping to insert content in this page ! :) 
+> Welcome! This page was made for you and by you - that’s right, with your collaboration we will help the entire Build Lab team with insights, materials and training regarding watsonx. Please join us and insert the best content on this page :slightly_smiling_face:
 
 ## Contents
 
@@ -66,7 +66,7 @@
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here the best material about how to desing the solution.
+- Insert here the best material about how to design the solution.
 
 - [Title](Link)(🌟)
 
@@ -91,7 +91,7 @@
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here the best material about how to desing the solution.
+- Insert here the best material about how to design the solution.
 
 - [Title](Link)(🌟)
 
@@ -116,7 +116,7 @@
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here the best material about how to desing the solution.
+- Insert here the best material about how to design the solution.
 
 - [Title](Link)(🌟)
 
