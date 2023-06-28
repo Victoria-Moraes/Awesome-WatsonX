@@ -63,17 +63,17 @@
 ### Engage
 - Insert here how to engage Bussiness Partner.
 
-- [Title](Link)(rating)
+- [Title](Link)(🚀)
 
 ### Design
 - Insert here how to desing the solution.
 
-- [Title](Link)
+- [Title](Link)(🌟)
 
 ### Deploy
 - Insert here how to deploy the solution.
 
-- [Title](Link)
+- [Title](Link)(🚀)
 
 <div align="left">
 	<br>
@@ -88,17 +88,17 @@
 ### Engage
 - Insert here how to engage Bussiness Partner.
 
-- [Title](Link)(rating)
+- [Title](Link)(🚀)
 
 ### Design
 - Insert here how to desing the solution.
 
-- [Title](Link)
+- [Title](Link)(🌟)
 
 ### Deploy
 - Insert here how to deploy the solution.
 
-- [Title](Link)
+- [Title](Link)(🚀)
 
 <div align="left">
 	<br>
@@ -113,18 +113,17 @@
 ### Engage
 - Insert here how to engage Bussiness Partner.
 
-- [Title](Link)(rating)
+- [Title](Link)(🚀)
 
 ### Design
 - Insert here how to desing the solution.
 
-- [Title](Link)
+- [Title](Link)(🌟)
 
 ### Deploy
 - Insert here how to deploy the solution.
 
-- [Title](Link)
-
+- [Title](Link)(🚀)
 
 
 ### Documentation
