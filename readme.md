@@ -9,7 +9,7 @@
 		<br>
 	</div>
 	<p>
-		<a href="https://bam.res.ibm.com/">WatsonX:</a> enterprise ready AI and data platform designed to multiply the impact of AI <a href="https://www.ibm.com/">IBM</a>
+		<a href="https://bam.res.ibm.com/">WatsonX:</a> enterprise ready AI and data platform designed to multiply the impact of AI by <a href="https://www.ibm.com/">IBM</a>
 	</p>
 	<br>
 	<a href="https://awesome.re">
