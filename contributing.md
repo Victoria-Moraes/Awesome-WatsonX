@@ -18,7 +18,8 @@ Insert your content like this:
 
 🌟 means that it's a good.
 
-🔥 means that it's awesome.
+🚀 means that it's awesome.
+
 
 
 
