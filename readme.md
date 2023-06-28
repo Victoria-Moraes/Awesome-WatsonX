@@ -61,17 +61,17 @@
 </div>
 
 ### Engage
-- Insert the best material about how to engage the Business Partner.
+- Insert here the best material about how to engage the Business Partner.
   
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here how to desing the solution.
+- Insert here the best material about how to desing the solution.
 
 - [Title](Link)(🌟)
 
 ### Deploy
-- Insert here how to deploy the solution.
+- Insert here the best material about how to deploy the solution.
 
 - [Title](Link)(🚀)
 
@@ -86,20 +86,20 @@
 </div>
 
 ### Engage
-- Insert here how to engage Bussiness Partner.
-
+- Insert here the best material about how to engage the Business Partner.
+  
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here how to desing the solution.
+- Insert here the best material about how to desing the solution.
 
 - [Title](Link)(🌟)
 
 ### Deploy
-- Insert here how to deploy the solution.
+- Insert here the best material about how to deploy the solution.
 
 - [Title](Link)(🚀)
-
+- 
 <div align="left">
 	<br>
 	<div>
@@ -111,20 +111,19 @@
 </div>
 
 ### Engage
-- Insert here how to engage Bussiness Partner.
-
+- Insert here the best material about how to engage the Business Partner.
+  
 - [Title](Link)(🚀)
 
 ### Design
-- Insert here how to desing the solution.
+- Insert here the best material about how to desing the solution.
 
 - [Title](Link)(🌟)
 
 ### Deploy
-- Insert here how to deploy the solution.
+- Insert here the best material about how to deploy the solution.
 
 - [Title](Link)(🚀)
-
 
 ### Documentation
 
