@@ -4,7 +4,7 @@
 	<div>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="images/wx-3.png">
-			<img alt="Awesome WatsonX" width="500px" src="images/wx-3.png">
+			<img alt="Awesome WatsonX" width="500px" src="images/wx-3-BL.png">
 		</picture>
 		<br>
 	</div>
