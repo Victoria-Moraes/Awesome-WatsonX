@@ -4,12 +4,12 @@
 	<div>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="images/wx-3.png">
-			<img alt="Awesome WatsonX" width="500px" src="images/wx-3-BL.png">
+			<img alt="Awesome watsonx" width="500px" src="images/wx-3-BL.png">
 		</picture>
 		<br>
 	</div>
 	<p>
-		<a href="https://bam.res.ibm.com/">WatsonX:</a> enterprise ready AI and data platform designed to multiply the impact of AI by <a href="https://www.ibm.com/">IBM</a>
+		<a href="https://bam.res.ibm.com/">watsonx:</a> enterprise ready AI and data platform designed to multiply the impact of AI by <a href="https://www.ibm.com/">IBM</a>
 	</p>
 	<br>
 	<a href="https://awesome.re">
@@ -24,34 +24,40 @@
 
 # Build Lab Americas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> WatsonX Selection Content
+> watsonx Selection Content
 
 ## Contents
 
-- [WatsonX.data](#watsonx.ai)
-- [WatsonX.data](#watsonx.data)
-- [WatsonX.governance](#watsonx.governance)
+- [watsonx.ai](#watsonx.ai)
+- [watsonx.data](#watsonx.data)
+- [watsonx.governance](#watsonx.governance)
 
 
 ## Overwiew
 
-- [WatsonX Seismic](https://ibm.seismic.com/app?ContentId=7f7b6631-07a7-4349-a07c-ebf8d6e79ab2#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdd3359e5f7-a856-a91b-7688-41024b2ac637%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252CPT0%253D%252CRGF0YSBhbmQgQUk%253D%252FdfOthers%252FdfOTRiYmU4NTQtNWY4NC03Y2QyLWZjYWUtOGIxYmFmZjkyZThk%252CPT0%253D%252CU2FsZXMga2l0%252Flf300ba605-4692-43d9-bbef-68bde18a0fcd/grid/)
+- [watsonx Seismic](https://ibm.seismic.com/app?ContentId=7f7b6631-07a7-4349-a07c-ebf8d6e79ab2#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdd3359e5f7-a856-a91b-7688-41024b2ac637%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252CPT0%253D%252CRGF0YSBhbmQgQUk%253D%252FdfOthers%252FdfOTRiYmU4NTQtNWY4NC03Y2QyLWZjYWUtOGIxYmFmZjkyZThk%252CPT0%253D%252CU2FsZXMga2l0%252Flf300ba605-4692-43d9-bbef-68bde18a0fcd/grid/)
 
 
 
-- [WatsonX.governance Overview](https://www.ibm.com/products/watsonx-governance)
+- [watsonx.governance Overview](https://www.ibm.com/products/watsonx-governance)
 
 
-## WatsonX.ai 
+<div align="left">
+	<br>
+	<div>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="images/cWatsonx.ai-wh.png">
+			<img alt="watsonx.ai" width="150px" src="images/Watsonx.ai-bl.png">
+		</picture>
+	</div>
+</div>
 
-In this section, pass on what you have learned.
-- 
 
 ### Engage
 
 - [Title](Link)
 
-### Desing
+### Design
 
 - [Title](Link)
 
@@ -59,13 +65,21 @@ In this section, pass on what you have learned.
 
 - [Title](Link)
 
-## WatsonX.data
+<div align="left">
+	<br>
+	<div>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="images/Watsonx.data-wh.png">
+			<img alt="watsonx.data" width="180px" src="images/Watsonx.data-bl.png">
+		</picture>
+	</div>
+</div>
 
 ### Engage
 
 - [Title](Link)
 
-### Desing
+### Design
 
 - [Title](Link)
 
@@ -73,13 +87,21 @@ In this section, pass on what you have learned.
 
 - [Title](Link)
 
-## WatsonX.governance
+<div align="left">
+	<br>
+	<div>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="images/Watsonx.governance-wh.png">
+			<img alt="watsonx.governance" width="260px" src="images/Watsonx.governance-bl.png">
+		</picture>
+	</div>
+</div>
 
 ### Engage
 
 - [Title](Link)
 
-### Desing
+### Design
 
 - [Title](Link)
 
