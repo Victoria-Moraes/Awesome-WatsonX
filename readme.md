@@ -52,16 +52,18 @@
 	</div>
 </div>
 
-
 ### Engage
+- Insert here how to engage Bussiness Partner.
 
-- [Title](Link)
+- [Title](Link)(rating)
 
 ### Design
+- Insert here how to desing the solution.
 
 - [Title](Link)
 
 ### Deploy
+- Insert here how to deploy the solution.
 
 - [Title](Link)
 
@@ -76,14 +78,17 @@
 </div>
 
 ### Engage
+- Insert here how to engage Bussiness Partner.
 
-- [Title](Link)
+- [Title](Link)(rating)
 
 ### Design
+- Insert here how to desing the solution.
 
 - [Title](Link)
 
 ### Deploy
+- Insert here how to deploy the solution.
 
 - [Title](Link)
 
@@ -98,14 +103,17 @@
 </div>
 
 ### Engage
+- Insert here how to engage Bussiness Partner.
 
-- [Title](Link)
+- [Title](Link)(rating)
 
 ### Design
+- Insert here how to desing the solution.
 
 - [Title](Link)
 
 ### Deploy
+- Insert here how to deploy the solution.
 
 - [Title](Link)
 
