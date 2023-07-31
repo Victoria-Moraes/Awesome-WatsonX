@@ -68,7 +68,7 @@
 ### Design
 - Insert here the best material about how to design the solution.
 
-- [Title](Link)(🌟)
+- [Watsonx.ai Lab from Client Engineering](https://github.ibm.com/client-engineering-watsonxai/workshop-watsonxai-foundations)(🌟)
 
 ### Deploy
 - Insert here the best material about how to deploy the solution.
